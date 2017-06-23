@@ -1,2 +1,2 @@
 # donatebitcoin
-Its about donate bitcoin
+Its about donating bitcoin for my travel expenses. I want to travel around the world.
